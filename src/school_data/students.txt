@@ -1,0 +1,1 @@
+STU1001|Cyrus|Adu|2002-05-01|Male|8|John Doe|05544332211|s@mail.coom|kasoa|Active|0.00|1000.00

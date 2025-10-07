@@ -1,0 +1,10 @@
+USR1005|parent1|parent123|Parent|Robert Doe|robert.doe@email.com|STU1001|true
+USR1007|cycode|123456|Student|Cyrus Adu||STU1001|true
+USR1004|student2|stud123|Student|Jane Smith|jane.smith@student.edu|STU1002|true
+USR1002|teacher2|teach123|Teacher|Bob Wilson|bob.wilson@school.edu|TEA102|true
+USR1003|student1|stud123|Student|John Doe|john.doe@student.edu|STU1001|true
+USR1009|james|123456|Teacher|James Earl|j@mail.com|TEA101|true
+USR1001|teacher1|teach123|Teacher|Alice Brown|alice.brown@school.edu|TEA101|true
+USR1000|admin|admin123|Admin|System Administrator|admin@school.edu||true
+USR1008|doe|123456|Parent|John Doe|s@mail.coom|STU1001|true
+USR1006|parent2|parent123|Parent|Mary Smith|mary.smith@email.com|STU1002|true
