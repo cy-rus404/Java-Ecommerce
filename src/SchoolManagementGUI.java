@@ -1409,4 +1409,11 @@ public class SchoolManagementGUI extends JFrame {
         // No sample data - start with empty system
         System.out.println("Starting with empty system - add your own data!");
     }
+
+    // Small main entry so this GUI can be launched directly
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(() -> {
+            new SchoolManagementGUI().setVisible(true);
+        });
+    }
 }
